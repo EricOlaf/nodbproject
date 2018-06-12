@@ -1,0 +1,13 @@
+.fighters {
+  display: grid;
+  grid: auto-flow / repeat(auto-fill, minmax(300px, 1fr));
+  background: slategray;
+  color: white;
+}
+
+input {
+  height: 25px;
+  background-color: whitesmoke;
+  color: slategray;
+  font-size: 25px;
+}
